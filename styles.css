@@ -1,0 +1,29 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #64b994;
+  display: grid;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+main{
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 300px;
+  width: 300px;
+  background-color: #b7e3cc;
+  border-radius: 20px;
+  box-shadow: 2px 4px #237858;
+  color: #184d3a;
+  margin: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+p{
+  font-weight: 700;
+  text-align: left;
+}
