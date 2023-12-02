@@ -30,7 +30,6 @@ lifesHumanPlayer.innerHTML = `Vidas: ${humanPlayer.lifes};`
 cardHumanPlayer.innerHTML = `Carta: ${humanPlayer.card}`;
 
 
-
 let nickHuman2 = document.getElementById("nick-player-2");
 let lifesHumanPLayer2 = document.getElementById("lifes-player-2");
 let cardHumanPlayer2 = document.getElementById("card-player-2");
